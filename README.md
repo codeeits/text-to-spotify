@@ -1,6 +1,6 @@
 # Text file importer
 
-This Python script allows you to import all the songs from a text document to a Spotify playlist. Best use with apple to text or spotify to text
+This Python script allows you to import all the songs from a text document to a Spotify playlist. Best use with [apple to text](https://www.icloud.com/shortcuts/f02586e6fa204b4a890a559a07778ef5) or [spotify to text](https://github.com/codeeits/spotify-to-text)
 
 ## Requirements
 Python 3.x
